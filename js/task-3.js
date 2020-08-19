@@ -15,6 +15,7 @@
 // Используйте if else if else для написания скрипта.
 
 const userPassword = 'jqueryismyjam';
+//const userPassword = prompt("Введи свой пароль");
 
 const ADMIN_PASSWORD = 'jqueryismyjam';
 
